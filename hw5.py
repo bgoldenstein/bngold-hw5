@@ -1,8 +1,8 @@
 # Name: Benjamin Goldenstein
-# Student ID: 
+# Student ID: 22465106
 # Email: bngold@umich.edu
-# List who you have worked with on this homework: 
-# List any AI tool (e.g. ChatGPT, GitHub Copilot): 
+# List who you have worked with on this homework: n/a
+# List any AI tool (e.g. ChatGPT, GitHub Copilot): n/a
 
 import re
 import os
