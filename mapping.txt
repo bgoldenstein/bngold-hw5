@@ -1,0 +1,11 @@
+emotion: #happy #sad #angry #joyful #excited #bored #anxious #hopeful #relaxed #nervous
+event: #2025SuperBowl #Oscars2024 #Concert #2024Election #ComicCon #WorldCup #Euro2024 #Thanksgiving2024 #Halloween2024 #NewYear2025
+celebrity: #Beyonce #TaylorSwift #BrunoMars #EmmaWatson #BlackPink #KendrickLamar #ArianaGrande #EdSheeran #Rihanna #ChrisHemsworth
+food: #pizza #coffee #sushi #tacos #burger #pasta #ramen #steak #croissant #noodles
+sport: #soccer #basketball #football #tennis #cricket #baseball #formula1 #golf #volleyball #boxing
+tech: #AI #MachineLearning #Blockchain #IoT #CyberSecurity #QuantumComputing #AR #VR #CloudComputing #DevOps
+travel: #Paris #NewYork #London #Tokyo #Sydney #Rome #Hawaii #Bali #Santorini #Iceland
+hobby: #gaming #reading #gardening #photography #cooking #baking #knitting #hiking #running #painting
+holiday: #Christmas #Easter #Thanksgiving #Halloween #Diwali #Hanukkah #Ramadan #ValentinesDay #EarthDay #IndependenceDay
+meme: #LOL #ROFL #Dank #Wholesome #Doggo #Catto #Throwback #Viral #Funny #Relatable
+

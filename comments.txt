@@ -1,0 +1,25 @@
+username:User1 / @cc0uNT:user1 / Email:user1@domain.com / Phone:313-111-2222 || COMMENT:"#happy #pizza #LOL" - 5 likes
+username:User2 * @cc0uNT:user2 * Email:user2@umich.edu / Phone:734.202.3030 || COMMENT:"#sad #Concert #Relatable" - 10 likes
+username:User3 / @cc0uNT:user3 / Email:user3@random.org / Phone:810-333-9999 || COMMENT:"#hopeful #KendrickLamar #Paris" - 8 likes
+username:User4 / @cc0uNT:user4 / Email:user4@music.io * Phone:999.444.1111 || COMMENT:"#WorldCup #tennis #VR" - 3 likes
+username:User5 * @cc0uNT:user5 * Email:user5@foodies.co / Phone:313 555 1212 || COMMENT:"#bored #ComicCon #steak #Funny" - 12 likes
+username:User6 / @cc0uNT:user6 / Email:user6@sports.net / Phone:734-111-2222 || COMMENT:"#ArianaGrande #Thanksgiving2024 #painting #Hanukkah" - 14 likes
+username:User7 / @cc0uNT:user7 / Email:user7@domain.org * Phone:810.222.3333 || COMMENT:"#soccer #2025SuperBowl #angry" - 2 likes
+username:User8 / @cc0uNT:user8 / Email:user8@travel.com / Phone:313.888.0000 || COMMENT:"#Bali #croissant #ROFL" - 6 likes
+username:User9 * @cc0uNT:user9 * Email:user9@celeb.net / Phone:734.555.3333 || COMMENT:"#MachineLearning #EmmaWatson #sad" - 9 likes
+username:User10 / @cc0uNT:user10 / Email:user10@holiday.io / Phone:810 777 9999 || COMMENT:"#Diwali #coffee #boxing" - 11 likes
+username:User11 / @cc0uNT:user11 / Email:user11@memes.co / Phone:313 222 4444 || COMMENT:"#EarthDay #Funny #pasta #baking" - 4 likes
+username:User12 * @cc0uNT:user12 * Email:user12@tech.org / Phone:734-909-8080 || COMMENT:"#QuantumComputing #AI #nervous" - 7 likes
+username:User13 / @cc0uNT:user13 / Email:user13@travel.me / Phone:810.121.1212 || COMMENT:"#NewYear2025 #Tokyo #relaxed #Doggo" - 15 likes
+username:User14 / @cc0uNT:user14 / Email:user14@domain.edu / Phone:313-636-3636 || COMMENT:"#BlackPink #bored #golf" - 1 likes
+username:User15 / @cc0uNT:user15 / Email:user15@food.org * Phone:734 111 5555 || COMMENT:"#burger #cooking #ValentinesDay #LOL" - 5 likes
+username:User16 * @cc0uNT:user16 * Email:user16@random.info / Phone:810-654-3210 || COMMENT:"#football #excited #Halloween2024" - 16 likes
+username:User17 / @cc0uNT:user17 / Email:user17@celeb.tv / Phone:313 101 2020 || COMMENT:"#Beyonce #EdSheeran #nervous #ROFL" - 18 likes
+username:User18 / @cc0uNT:user18 / Email:user18@domain.biz * Phone:734.222.2222 || COMMENT:"#reading #knitting #painting #Catto" - 0 likes
+username:User19 / @cc0uNT:user19 / Email:user19@music.us / Phone:810 454 5454 || COMMENT:"#WorldCup #ArianaGrande #BrunoMars #relaxed" - 13 likes
+username:User20 * @cc0uNT:user20 * Email:user20@holidays.net / Phone:313-555-7777 || COMMENT:"#Christmas #Hanukkah #Diwali #Wholesome" - 20 likes
+username:User21 / @cc0uNT:user21 / Email:user21@foodies.co / Phone:734 303 5050 || COMMENT:"#sushi #steak #baking #Viral" - 6 likes
+username:User22 / @cc0uNT:user22 / Email:user22@domain.co * Phone:810.999.1111 || COMMENT:"#Euro2024 #angry #bored #Rihanna" - 9 likes
+username:User23 * @cc0uNT:user23 * Email:user23@random.org / Phone:313.444.9999 || COMMENT:"#IoT #DevOps #funny #running" - 4 likes
+username:User24 / @cc0uNT:user24 / Email:user24@umich.edu / Phone:734.111.9999 || COMMENT:"#hiking #anxious #Oscars2024" - 14 likes
+username:User25 / @cc0uNT:user25 / Email:user25@stuff.io * Phone:810-606-7070 || COMMENT:"#Ramadan #golf #noddles (typo) #excited" - 21 likes
