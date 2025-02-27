@@ -245,8 +245,6 @@ class TestAllFunc(unittest.TestCase):
 
 
 def main():
-    x = get_user_info("comments.txt")
-    print(validate_michigan_number(x))
     unittest.main(verbosity=2)
 
 
